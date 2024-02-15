@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+    color: brown;
+}
+a:hover{
+    color: #a5ef1c;
+}
+ul{
+    background-color: aquamarine;
+    list-style-type: circle;
+}
+body{
+    background-image: url(imag1/Cool-nature-backgrounds-hd-resolution-1920x1080.jpg);
+    background-size: cover;
+}
+
+img{
+    width:auto;
+    height:50%;
+    
+}
+
+h1{
+    align-items: center;
+}
+
+#head1{
+    text-align: center;
+}
+
+#head2{
+    color: #54c884;
+}
+.olOne{
+    background-color: blue;
+}
+.tb{
+    border: 1px solid red;
+    margin: 100px 50px 100px 50px;
+}
+.tb tr td {
+
+    border: 1px solid red;
+    padding: 15px 15px 12px 15px;
+
+}
